@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm taking my journey into Data Science
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is J. Tyler Sheppard but I go by Tyler. Here are few reasons for my journey.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a math nerd. (*or just all round nerd in general)
+- I am detail oriented to an OCD standard.
+- I was born and raised in the IT field with a mother who as a Software Developer and a father who was a Harware Engineer.
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
