@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first weeks at Lambda Schhool
+title: My first weeks at Lambda School
 image: /img/Lambda.jpeg
 ---
 
