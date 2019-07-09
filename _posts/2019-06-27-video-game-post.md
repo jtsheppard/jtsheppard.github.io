@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Best Video Game Era Blog
-image: /img/game.jpg
----
----
 image: /img/All Games2.PNG
 ---
 
@@ -14,5 +11,5 @@ take on the task to answer this question with statistical methods. I also took i
 Link below for further reading.
 
 ---
-link: https://medium.com/@ty3117/best-video-game-generation-of-all-time-according-to-data-science-4a03db7e100e
+Click <a href="https://medium.com/@ty3117/best-video-game-generation-of-all-time-according-to-data-science-4a03db7e100e">here</a> to go to full blog post.
 ---
