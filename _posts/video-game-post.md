@@ -1,9 +1,7 @@
 ---
-
 layout: post
 title: Best Video Game Era Blog
 image: /img/game.jpg
-
 ---
 
 
