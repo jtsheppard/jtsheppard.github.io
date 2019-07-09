@@ -42,21 +42,21 @@ avatar: "/img/Profile.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#4894ff"
-navbar-text-col: "#140706"
-navbar-children-col: "#6dff48"
-page-col: "#4894ff"
-link-col: "#140706"
-hover-col: "#6dff48"
-footer-col: "#4894ff"
-footer-text-col: "#140706"
-footer-link-col: "#6dff48"
+navbar-col: "37DC94"
+navbar-text-col: "#162C9B"
+navbar-children-col: "#FF5126"
+page-col: "#37DC94"
+link-col: "#162C9B"
+hover-col: "#FF5126"
+footer-col: "#37DC94"
+footer-text-col: "#162C9B"
+footer-link-col: "#FF5126"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/Header.png"
- footer-img: "/img/Header.png"
+# navbar-img: "/img/Jeader.png"
+# footer-img: "/img/Header.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -72,13 +72,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: jeffreytylersheppard@gmail.com
+  email: "jeffreytylersheppard@gmail.com"
 #  facebook: daattali
 #  github: daattali
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: https://www.linkedin.com/in/jtsheppard/
+  linkedin: https://www.linkedin.com/in/jtsheppard
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -256,5 +256,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-theme: jekyll-theme-slate
