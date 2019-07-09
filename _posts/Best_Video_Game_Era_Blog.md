@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Video Game Era Blog
-image: /img/game.jpeg
+image: /img/game.jpg
 ---
 
 I wrote a blog using data science to prove the best video game era as well as best video game of all time crossing both public and proffesional opinions.
