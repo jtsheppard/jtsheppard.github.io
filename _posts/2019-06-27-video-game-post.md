@@ -11,5 +11,4 @@ take on the task to answer this question with statistical methods. I also took i
 Link below for further reading.
 
 ---
-Click <a href="https://medium.com/@ty3117/best-video-game-generation-of-all-time-according-to-data-science-4a03db7e100e">here</a> to go to full blog post.
----
+Click <a href="https://medium.com/@ty3117/best-video-game-generation-of-all-time-according-to-data-science-4a03db7e100e">here</a> for more
