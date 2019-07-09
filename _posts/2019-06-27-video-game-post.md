@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Best Video Game Era Blog
-image: /img/All Games2.PNG
+image: /img/game.jpg
 ---
+
+<img src="https://github.com/ty3117/ty3117.github.io/blob/master/img/All%20Games2.PNG?raw=true">
 
 It’s an age old debate among us self proclaimed nerds to which generation** of gaming is the best. As a Data Science student, I decided to
 take on the task to answer this question with statistical methods. I also took it a step further and found the only game to score a perfect 
